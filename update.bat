@@ -32,3 +32,4 @@ echo [SUKSES] Kodingan MOTEC berhasil diperbarui ke versi terbaru!
 echo ==============================================================================
 echo.
 pause
+
