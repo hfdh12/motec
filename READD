@@ -1,7 +1,7 @@
+git pull origin main ----> Sebelum edit, perintah ini dulu di terminal
+
+
 git add .
 git commit -m "Deskripsi perubahan kodingan yang Anda buat"
-git push origin main
+git push origin main ---->> Abis edit, perintah ini dari git add sampe git push
 
-git pull origin main
-pppppppppppppp
-yudis ganteng sayang ariel
